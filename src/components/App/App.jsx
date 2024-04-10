@@ -1,7 +1,5 @@
+import UserForm from "./UserForm/UserForm";
+
 export default function App() {
-  return (
-    <>
-      <div>BBB</div>
-    </>
-  );
+  return <UserForm />;
 }
